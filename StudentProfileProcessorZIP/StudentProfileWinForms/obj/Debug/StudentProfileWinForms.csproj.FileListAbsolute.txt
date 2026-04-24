@@ -1,0 +1,11 @@
+C:\Users\stern\Desktop\Year3\SDT-621\Assignments\StudentProfileWinForms\obj\Debug\StudentProfileWinForms.csproj.AssemblyReference.cache
+C:\Users\stern\Desktop\Year3\SDT-621\Assignments\StudentProfileWinForms\obj\Debug\StudentProfileWinForms.Form1.resources
+C:\Users\stern\Desktop\Year3\SDT-621\Assignments\StudentProfileWinForms\obj\Debug\StudentProfileWinForms.Properties.Resources.resources
+C:\Users\stern\Desktop\Year3\SDT-621\Assignments\StudentProfileWinForms\obj\Debug\StudentProfileWinForms.csproj.GenerateResource.cache
+C:\Users\stern\Desktop\Year3\SDT-621\Assignments\StudentProfileWinForms\obj\Debug\StudentProfileWinForms.csproj.CoreCompileInputs.cache
+C:\Users\stern\Desktop\Year3\SDT-621\Assignments\StudentProfileWinForms\bin\Debug\StudentProfileWinForms.exe.config
+C:\Users\stern\Desktop\Year3\SDT-621\Assignments\StudentProfileWinForms\bin\Debug\StudentProfileWinForms.exe
+C:\Users\stern\Desktop\Year3\SDT-621\Assignments\StudentProfileWinForms\bin\Debug\StudentProfileWinForms.pdb
+C:\Users\stern\Desktop\Year3\SDT-621\Assignments\StudentProfileWinForms\obj\Debug\StudentProfileWinForms.exe
+C:\Users\stern\Desktop\Year3\SDT-621\Assignments\StudentProfileWinForms\obj\Debug\StudentProfileWinForms.pdb
+C:\Users\stern\Desktop\Year3\SDT-621\Assignments\StudentProfileWinForms\obj\Debug\StudentProfileWinForms.exe.config

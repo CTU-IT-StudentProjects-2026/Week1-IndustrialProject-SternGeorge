@@ -1,0 +1,14 @@
+C:\Users\stern\Desktop\Year3\SDT-621\Assignments\StudentProfileConsole\bin\Debug\net8.0\StudentProfileConsole.exe
+C:\Users\stern\Desktop\Year3\SDT-621\Assignments\StudentProfileConsole\bin\Debug\net8.0\StudentProfileConsole.deps.json
+C:\Users\stern\Desktop\Year3\SDT-621\Assignments\StudentProfileConsole\bin\Debug\net8.0\StudentProfileConsole.runtimeconfig.json
+C:\Users\stern\Desktop\Year3\SDT-621\Assignments\StudentProfileConsole\bin\Debug\net8.0\StudentProfileConsole.dll
+C:\Users\stern\Desktop\Year3\SDT-621\Assignments\StudentProfileConsole\bin\Debug\net8.0\StudentProfileConsole.pdb
+C:\Users\stern\Desktop\Year3\SDT-621\Assignments\StudentProfileConsole\obj\Debug\net8.0\StudentProfileConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stern\Desktop\Year3\SDT-621\Assignments\StudentProfileConsole\obj\Debug\net8.0\StudentProfileConsole.AssemblyInfoInputs.cache
+C:\Users\stern\Desktop\Year3\SDT-621\Assignments\StudentProfileConsole\obj\Debug\net8.0\StudentProfileConsole.AssemblyInfo.cs
+C:\Users\stern\Desktop\Year3\SDT-621\Assignments\StudentProfileConsole\obj\Debug\net8.0\StudentProfileConsole.csproj.CoreCompileInputs.cache
+C:\Users\stern\Desktop\Year3\SDT-621\Assignments\StudentProfileConsole\obj\Debug\net8.0\StudentProfileConsole.dll
+C:\Users\stern\Desktop\Year3\SDT-621\Assignments\StudentProfileConsole\obj\Debug\net8.0\refint\StudentProfileConsole.dll
+C:\Users\stern\Desktop\Year3\SDT-621\Assignments\StudentProfileConsole\obj\Debug\net8.0\StudentProfileConsole.pdb
+C:\Users\stern\Desktop\Year3\SDT-621\Assignments\StudentProfileConsole\obj\Debug\net8.0\StudentProfileConsole.genruntimeconfig.cache
+C:\Users\stern\Desktop\Year3\SDT-621\Assignments\StudentProfileConsole\obj\Debug\net8.0\ref\StudentProfileConsole.dll
